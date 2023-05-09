@@ -6,3 +6,5 @@ https://www.skillsyouneed.com/num/percent-change.html : I used this website to c
 https://www.automateexcel.com/vba/round-functions : I used this website to figure out how to round to 2 decimals
 
 https://excelchamps.com/vba/autofit/ : I used this website to figure out how to AutoFit text in a cell
+
+https://stackoverflow.com/questions/54306950/index-match-max-vba : I used this website to figure out how to grab the ticker associated with the greatest increase, decrease, and total volume
